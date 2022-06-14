@@ -1,2 +1,2 @@
 # try-hack-me-walkthroughs
-Walkthroughs for Try Hack Me
+Welcome to my page for publishing walkthroughs for Try Hack Me!
